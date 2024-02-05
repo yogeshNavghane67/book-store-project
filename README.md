@@ -4,6 +4,11 @@
 
 The Book Store Project 
 
+## Demo
+
+![Screenshot (532)](https://github.com/yogeshNavghane67/book-store-project/assets/124075039/04be5d8f-df8e-40e4-bb87-4ba06e1e8662)
+
+
 ## Technologies Used
 
 - **MongoDB:** A NoSQL database for storing data.
